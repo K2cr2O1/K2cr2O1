@@ -43,15 +43,9 @@
 
 ### 编码统计
 
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=333&icon_color=7F00FF&bg_color=FFF" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&hide=html,css&hide_title=false&hide_border=true&layout=compact&langs_count=8&text_color=333&bg_color=FFF" />
-</p>
 
 <p align="center">
-  <a href="https://wakatime.com/@YOUR_WAKATIME_ID">
-    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg?style=for-the-badge&color=7F00FF" alt="编码时间" />
-  </a>
+<a href="https://wakatime.com/badge/user/f1a61b2c-4be5-4513-a094-ff5a28b46e4f/project/0b438445-12c8-48be-9273-58851a0f5d2b"><img src="https://wakatime.com/badge/user/f1a61b2c-4be5-4513-a094-ff5a28b46e4f/project/0b438445-12c8-48be-9273-58851a0f5d2b.svg" alt="wakatime"></a>
 </p>
 
 ---
