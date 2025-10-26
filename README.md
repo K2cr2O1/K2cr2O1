@@ -1,24 +1,4 @@
 
-```markdown
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=4000&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=%F0%9F%8C%8C+Digital+Cartographer+%F0%9F%8C%8C;%F0%9F%92%BB+Network+Architect+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
-<h3 align="center">⚡ Mapping the Abstract, Architecting the Concrete ⚡</h3>
-
----
-
-### `WHO_AM_I.md`
-
-```json
-{
-  "archetype": "INFJ",
-  "core_drives": ["Seeking_Meaning", "Building_Connections", "Understanding_Systems"],
-  "current_focus": ["Network Engineering", "Backend Logic", "Healing & Growing"],
-  "mantra": "Before code, there must be architecture. Before architecture, there must be understanding."
-}
-```
-
 > **"We are all in the gutter, but some of us are looking at the stars."** <br>
 > — A reminder to keep looking up, even when debugging.
 
