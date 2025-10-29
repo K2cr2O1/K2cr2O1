@@ -8,6 +8,20 @@
 </div>
 
 ---
+### 我的生命状态
+<div align="center">
+  <iframe 
+    src="https://pulsoid.net/widget/view/16ad5fa6-0d35-4d3c-bc0b-d4aa79c52bed" 
+    width="80%"  <!-- 占容器80%宽度，适配不同设备 -->
+    height="300"
+    frameborder="0"
+    allowfullscreen
+  ></iframe>
+</div>
+
+
+
+
 
 ### 关于我
 
@@ -47,6 +61,9 @@
 <p align="center">
 <a href="https://wakatime.com/badge/user/f1a61b2c-4be5-4513-a094-ff5a28b46e4f/project/0b438445-12c8-48be-9273-58851a0f5d2b"><img src="https://wakatime.com/badge/user/f1a61b2c-4be5-4513-a094-ff5a28b46e4f/project/0b438445-12c8-48be-9273-58851a0f5d2b.svg" alt="wakatime"></a>
 </p>
+
+
+
 
 ---
 
