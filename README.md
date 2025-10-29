@@ -9,15 +9,7 @@
 
 ---
 ### 我的生命状态
-<div align="center">
-  <iframe 
-    src="https://pulsoid.net/widget/view/16ad5fa6-0d35-4d3c-bc0b-d4aa79c52bed" 
-    width="80%"  <!-- 占容器80%宽度，适配不同设备 -->
-    height="300"
-    frameborder="0"
-    allowfullscreen
-  ></iframe>
-</div>
+![最新心率趋势图](https://xinlvapi.k2cr2o9.xyz/upload_heartrate.php?getimg)
 
 
 
