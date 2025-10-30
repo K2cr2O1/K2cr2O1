@@ -9,7 +9,10 @@
 
 ---
 ### 我的生命状态
-![最新心率趋势图](https://xinlvapi.k2cr2o9.xyz/upload_heartrate.php?getimg)
+
+<p align="center">
+<a href="https://xinlvapi.k2cr2o9.xyz/upload_heartrate.php"><img src="https://xinlvapi.k2cr2o9.xyz/upload_heartrate.php?getimg" alt="wakatime"></a>
+</p>
 
 
 
