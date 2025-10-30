@@ -11,7 +11,7 @@
 ### 我的生命状态
 
 <p align="center">
-<a href="https://xinlvapi.k2cr2o9.xyz/upload_heartrate.php"><img src="https://xinlvapi.k2cr2o9.xyz/upload_heartrate.php?getimg" alt="wakatime"></a>
+<a href="https://xinlvapi.k2cr2o9.xyz/upload_heartrate.php"><img src="https://xinlvapi.k2cr2o9.xyz/heart_rate_images/latest_heart_rate.png" alt="wakatime"></a>
 </p>
 
 
