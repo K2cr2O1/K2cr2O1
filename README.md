@@ -1,10 +1,10 @@
 
 
-<h3 align="center">我是镀铬酸钾，一个喜欢技术的furryOWO</h3>
+<h3 align="center">我是镀铬酸钾，一个喜欢技术的furry</h3>
 
 <div align="center">
   语言：🇨🇳 中文 | 🇺🇸 英语EN | 🇯🇵 日语JP  
-  如果对我感兴趣？欢迎交流
+  \n如果对我感兴趣？欢迎交流
 </div>
 
 ---
