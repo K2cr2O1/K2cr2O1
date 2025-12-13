@@ -46,6 +46,18 @@
 
 ### 开发相关
 
+- 📈 活动图：
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=K2cr2O1&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+- 🌐 语言比例：
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K2cr2O1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📊 统计卡片：
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K2cr2O1&show_icons=true&theme=radical)
+
 
 <!--START_SECTION:waka-->
 
