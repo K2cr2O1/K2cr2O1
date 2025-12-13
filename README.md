@@ -50,13 +50,10 @@
 <!--START_SECTION:waka-->
 
 ```Python
-Total Time: 99 hrs 10 mins
+Total Time: 0 hrs 0 mins
 
-Python        33 hrs 54 mins  >>>>>>>>>----------------   34.20 %
-unknown       33 hrs 16 mins  >>>>>>>>-----------------   33.55 %
-C++           16 hrs 30 mins  >>>>---------------------   16.65 %
-YAML          8 hrs 59 mins   >>-----------------------   09.06 %
-Text          2 hrs 2 mins    >------------------------   02.04 %
+TOML   0 hrs 0 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+INI    0 hrs 0 mins    -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
