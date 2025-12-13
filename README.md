@@ -10,6 +10,7 @@
 ---
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K2cr2O1&show_icons=true&theme=radical)
 
 ### 关于我
 
