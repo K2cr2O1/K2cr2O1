@@ -63,10 +63,12 @@
 <!--START_SECTION:waka-->
 
 ```Python
-Total Time: 0 hrs 0 mins
+Total Time: 0 hrs 19 mins
 
-TOML   0 hrs 0 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
-INI    0 hrs 0 mins    -------------------------   00.00 %
+Markdown   0 hrs 13 mins   >>>>>>>>>>>>>>>>>>-------   70.60 %
+Python     0 hrs 5 mins    >>>>>>>------------------   29.31 %
+TOML       0 hrs 0 mins    -------------------------   00.09 %
+INI        0 hrs 0 mins    -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
