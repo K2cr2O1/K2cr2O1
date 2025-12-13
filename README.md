@@ -44,12 +44,22 @@
 
 ---
 
-### bot开发相关
+### 开发相关
 
 
-<p align="center">
-<a href="https://wakatime.com/badge/user/f1a61b2c-4be5-4513-a094-ff5a28b46e4f/project/0b438445-12c8-48be-9273-58851a0f5d2b"><img src="https://wakatime.com/badge/user/f1a61b2c-4be5-4513-a094-ff5a28b46e4f/project/0b438445-12c8-48be-9273-58851a0f5d2b.svg" alt="wakatime"></a>
-</p>
+<!--START_SECTION:waka-->
+
+```Python
+Total Time: 99 hrs 10 mins
+
+Python        33 hrs 54 mins  >>>>>>>>>----------------   34.20 %
+unknown       33 hrs 16 mins  >>>>>>>>-----------------   33.55 %
+C++           16 hrs 30 mins  >>>>---------------------   16.65 %
+YAML          8 hrs 59 mins   >>-----------------------   09.06 %
+Text          2 hrs 2 mins    >------------------------   02.04 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
