@@ -72,7 +72,7 @@ jobs:
 
             # Options
             filename: right.svg
-            user: RF-Tar-Railt
+            user: K2cr2O1
             template: classic
             base: metadata
             config_timezone: Asia/Shanghai
