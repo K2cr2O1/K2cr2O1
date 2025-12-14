@@ -8,6 +8,7 @@
 </div>
 
 ---
+<img src="https://readme-typing-svg.demolab.com/?lines=DOGSOHA+HARE+!;&center=true&width=1000&height=50&size=32&font=Righteous"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=K2cr2O1&show_icons=true&theme=radical)
