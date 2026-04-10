@@ -38,6 +38,7 @@
 - 🦀 **Current Goal**: Learning **Golang** and **Rust**.
 - 🎮 **Fun Fact**: 福瑞控 (Furry).
 - ⌨️ **Projects**: Working on **Neobot**.
+- 我只是一个25年下半年接触全栈的全占程序员
 
 ---
 ### 💻 Coding Activity (via Wakapi)
