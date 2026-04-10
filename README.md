@@ -40,10 +40,10 @@
 - ⌨️ **Projects**: Working on **Neobot**.
 
 ---
-
 ### 💻 Coding Activity (via Wakapi)
-
+<!--START_SECTION:waka-->
 🕒 正在等待 Wakapi 统计数据同步...
+<!--END_SECTION:waka-->
 ---
 
 ## 🔗 Link
