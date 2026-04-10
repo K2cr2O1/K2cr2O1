@@ -31,6 +31,11 @@
   </a>
 </p>
 
+
+### 🍎 LeetCode Stats (CN)
+![LeetCode Stats](https://leetcard.jacoblin.cool/2221577113?site=cn&theme=dark&ext=heatmap)
+
+
 ---
 
 ### 🐾 About Me
