@@ -1,9 +1,10 @@
 name: Waka Readme Stats
+
 on:
+  workflow_dispatch: # 支持手动触发
   schedule:
-    # 每天凌晨 0 点自动更新
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # 每天凌晨自动更新
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -11,10 +12,16 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
-          SHOW_TITLE: true
+          # 核心修改：指定你的自建 Wakapi 地址
+          # 格式通常为: https://wakapi.yourdomain.com/api
+          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
+          # 使用你在 Wakapi 账户中生成的 API Key
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          
+          # 展示设置
           SECTION_NAME: waka
           BLOCKS: 🟩
-          TIME_RANGE: all_time # 关键参数：统计全部时间的数据
+          TIME_RANGE: all_time # 统计所有历史数据
           SHOW_TIME: true
+          SHOW_TITLE: true
           SHOW_MASKED_TIME: false
