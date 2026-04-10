@@ -20,7 +20,7 @@ jobs:
           
           # 展示设置
           SECTION_NAME: waka
-          BLOCKS: 🟩
+          BLOCKS: "░▒▓█"
           TIME_RANGE: all_time # 统计所有历史数据
           SHOW_TIME: true
           SHOW_TITLE: true
