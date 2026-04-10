@@ -15,21 +15,49 @@
   </table>
 </div>
 
-### 🐾 About Me
-- 🛡️ **Server Administrator & Independent Developer**
-- 🦀 **Current Goal**: Mastering **Golang** and **Rust**
-- 🎮 **Fun Fact**: 福瑞控 (Furry)
-- ⌨️ **Current Project**: Working on **Neobot**
+### 🛠️ Tech Stack
+
+**Languages**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,rust,c,java,js,ts,kotlin,bash" />
+  </a>
+</p>
+
+**Backend & Infrastructure**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,django,fastapi,nodejs,mysql,postgres,mongodb,redis,nginx,docker,kubernetes,linux" />
+  </a>
+</p>
+
+**Tools & Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,arduino,flutter,react,vue,ps,pnpm,aws,azure" />
+  </a>
+</p>
 
 ---
 
-### 💻 Coding Activity
+### 🐾 About Me
+- 🛡️ **Server Administrator**: Managing Minecraft networks and proxy infrastructures.
+- 🦀 **Learning**: Deep diving into **Golang** and **Rust**.
+- 🎮 **Fun Fact**: 福瑞控 (Furry).
+- ⌨️ **Current Project**: Developing **Neobot**.
 
-- **GitHub Activity Graph**
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=K2cr2O1&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-- **Weekly Development (WakaTime)**
-```txt
-Python       3 hrs 27 mins         🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   54.33 %
-YAML         1 hrs 0 mins          🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.73 %
-Go           0 hrs 56 mins         🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.66 %
+### 💻 Coding Activity (via Wakapi)
+
+---
+
+## 🔗 Link
+
+<p align="left">
+  <a href="mailto:2221577113@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> 
+  <a href="https://wpa.qq.com/msgrd?v=3&uin=2221577113&site=qqq&menu=yes"><img src="https://img.shields.io/badge/QQ-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" /></a> 
+  <a href="https://space.bilibili.com/388937043"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a> 
+  <a href="https://x.com/K2Cr04"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a> 
+  <a href="https://k2cro4.top"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+</p>
