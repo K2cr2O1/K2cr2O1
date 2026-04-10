@@ -1,18 +1,20 @@
-name: WakaTime Readme
+name: Waka Readme Stats
 on:
-  workflow_dispatch: # 手动触发
   schedule:
-    - cron: '0 20 * * *' # 每天UTC时间20点自动更新
+    # 每天凌晨 0 点自动更新
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 jobs:
   update-readme:
-    name: Update README
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
-          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
-          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
-          COMMIT_MESSAGE: Update Wakapi stats
-          BLOCKS: "⬜🟨🟩"
-          TIME_RANGE: last_30_days
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: 🟩
+          TIME_RANGE: all_time # 关键参数：统计全部时间的数据
           SHOW_TIME: true
+          SHOW_MASKED_TIME: false
