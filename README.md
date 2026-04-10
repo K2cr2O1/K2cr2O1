@@ -17,39 +17,33 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Languages & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,rust,c,java,js,ts,kotlin,bash" />
+    <img src="https://skillicons.dev/icons?i=py,go,rust,c,java,js,ts,kotlin,dart,bash,spring,django,fastapi,nodejs,react,vue,flutter,arduino" />
   </a>
 </p>
 
-**Backend & Infrastructure**
+**Infrastructure & Tools**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,django,fastapi,nodejs,mysql,postgres,mongodb,redis,nginx,docker,kubernetes,linux" />
-  </a>
-</p>
-
-**Tools & Development**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,arduino,flutter,react,vue,ps,pnpm,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,mysql,postgres,mongodb,redis,git,androidstudio,pnpm,ps" />
   </a>
 </p>
 
 ---
 
 ### 🐾 About Me
-- 🛡️ **Server Administrator**: Managing Minecraft networks and proxy infrastructures.
-- 🦀 **Learning**: Deep diving into **Golang** and **Rust**.
+- 🛡️ **Server Administrator**: Managing Minecraft and Proxy Network.
+- 🦀 **Current Goal**: Learning **Golang** and **Rust**.
 - 🎮 **Fun Fact**: 福瑞控 (Furry).
-- ⌨️ **Current Project**: Developing **Neobot**.
+- ⌨️ **Projects**: Working on **Neobot**.
 
 ---
 
 ### 💻 Coding Activity (via Wakapi)
 
+🕒 正在等待 Wakapi 统计数据同步...
 ---
 
 ## 🔗 Link
@@ -59,5 +53,4 @@
   <a href="https://wpa.qq.com/msgrd?v=3&uin=2221577113&site=qqq&menu=yes"><img src="https://img.shields.io/badge/QQ-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" /></a> 
   <a href="https://space.bilibili.com/388937043"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a> 
   <a href="https://x.com/K2Cr04"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a> 
-  <a href="https://k2cro4.top"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </p>
