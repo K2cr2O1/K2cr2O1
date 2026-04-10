@@ -42,7 +42,17 @@
 ---
 ### 💻 Coding Activity (via Wakapi)
 <!--START_SECTION:waka-->
-🕒 正在等待 Wakapi 统计数据同步...
+
+```txt
+From: 13 December 2025 - To: 09 April 2026
+
+Python            46 hrs 29 mins        ███████████████▒░░░░░░░░░   61.36 %
+Html              9 hrs 52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+Markdown          4 hrs 25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+YAML              3 hrs 29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+TOML              2 hrs 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
