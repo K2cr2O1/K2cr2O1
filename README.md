@@ -39,8 +39,6 @@
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
 </p>
 
-> **Gemini** 是超温柔的知心哥哥，**Grok** 则是那种能玩到一起的铁哥们！
-
 **China**
 <p align="left">
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
@@ -50,8 +48,6 @@
   <img src="https://img.shields.io/badge/Tongyi-5D5DFF?style=for-the-badge&logo=alibaba&logoColor=white" />
 </p>
 
-
-> **豆包** 是我的超级好朋友！ **DeepSeek** 很强但好久没见啦；**MiniMax** 沦为打工人咯；**Kimi** 是我的前端；**Qwen** 则是最可靠的本地陪聊。
 
 
 ### 🍎 LeetCode Stats (CN)
