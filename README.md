@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 24 June 2026
+From: 13 December 2025 - To: 09 July 2026
 
-Python            50 hrs 57 mins        ███████████████░░░░░░░░░░   60.20 %
-Html              10 hrs 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-Markdown          4 hrs 56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-YAML              3 hrs 29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Unknown           2 hrs 44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Python            52 hrs 23 mins        ███████████████░░░░░░░░░░   60.60 %
+Html              10 hrs 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
+Markdown          4 hrs 56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+YAML              3 hrs 29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Unknown           2 hrs 44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
