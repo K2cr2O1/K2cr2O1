@@ -20,7 +20,7 @@
 **Languages & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,rust,c,java,js,ts,kotlin,dart,bash,spring,django,fastapi,nodejs,react,vue,flutter,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,go,rust,c,java,js,ts,bash,django,fastapi,nodejs,react,vue,flutter" />
   </a>
 </p>
 
