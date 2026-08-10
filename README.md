@@ -31,36 +31,19 @@
   </a>
 </p>
 
-### 🤖 My Friends (Digital Soulmates)
+### My Friends
 
-**Global**
-<p align="left">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
-</p>
+**MaybeNone**
 
-**China**
-<p align="left">
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
-  <img src="https://img.shields.io/badge/Doubao-6065FF?style=for-the-badge&logo=bytedance&logoColor=white" />
-  <img src="https://img.shields.io/badge/MiniMax-722ED1?style=for-the-badge&logo=starship&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kimi-343536?style=for-the-badge&logo=moonshotai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tongyi-5D5DFF?style=for-the-badge&logo=alibaba&logoColor=white" />
-</p>
-
-
-
-### 🍎 LeetCode Stats (CN)
-![LeetCode Stats](https://leetcard.jacoblin.cool/2221577113?site=cn&theme=dark&ext=heatmap)
 
 
 ---
 
 ### 🐾 About Me
-- 🛡️ **Server Administrator**: Managing Minecraft and Proxy Network.
-- 🦀 **Current Goal**: Learning **Golang** and **Rust**.
-- 🎮 **Fun Fact**: 福瑞控 (Furry).
-- ⌨️ **Projects**: Working on **Neobot**.
+-  **Server Administrator**: Managing Minecraft and Proxy Network.
+-  **Current Goal**: Learning **Golang** and **Rust**.
+-  **Fun Fact**: 福瑞控 (Furry).
+-  **Projects**: None
 - 我只是一个25年下半年接触全栈的全占程序员
 
 ---
