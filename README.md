@@ -51,9 +51,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2025 - To: 17 July 2026
+From: 13 December 2025 - To: 29 August 2026
 
-Python            52 hrs 56 mins        ███████████████░░░░░░░░░░   60.02 %
+Python            52 hrs 56 mins        ███████████████░░░░░░░░░░   60.01 %
 Html              10 hrs 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
 Markdown          4 hrs 58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 YAML              3 hrs 29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
