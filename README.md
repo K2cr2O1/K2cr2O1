@@ -1,3 +1,20 @@
+<h1 align="center">
+  <a href="https://github.com/K2cr2O1">
+    <img src="https://avatars.githubusercontent.com/u/71297255?v=4&size=120" width="120" alt="K2cr2O1"/>
+  </a>
+  <br/>
+  镀铬酸钾 <span style="color:#f4b400">K₂Cr₂O₇</span>
+</h1>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:2221577113@qq.com)
+[![QQ](https://img.shields.io/badge/QQ-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white)](https://wpa.qq.com/msgrd?v=3&uin=2221577113&site=qqq&menu=yes)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/388937043)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/K2Cr04)
+
+</div>
+
 <img src="https://readme-typing-svg.demolab.com/?lines=DOGSOHA+HARE+!;&center=true&width=1000&height=50&size=32&font=Righteous"/>
 
 ## 📊 Statistic
@@ -15,9 +32,19 @@
   </table>
 </div>
 
+## 🐍 Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K2cr2O1/K2cr2O1/output/snake.svg"/>
+    <img src="https://raw.githubusercontent.com/K2cr2O1/K2cr2O1/output/snake.svg" width="70%"/>
+  </picture>
+</div>
+
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,go,rust,c,java,js,ts,bash,django,fastapi,nodejs,react,vue,flutter" />
@@ -25,29 +52,30 @@
 </p>
 
 **Infrastructure & Tools**
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,mysql,postgres,mongodb,redis,git,androidstudio,pnpm,ps" />
   </a>
 </p>
 
-### My Friends
-
-**MaybeNone**
-
-
-
 ---
 
 ### 🐾 About Me
--  **Server Administrator**: Managing Minecraft and Proxy Network.
--  **Current Goal**: Learning **Golang** and **Rust**.
--  **Fun Fact**: 福瑞控 (Furry).
--  **Projects**: None
-- 我只是一个25年下半年接触全栈的全占程序员
+
+- **Server Administrator** — Managing Minecraft and Proxy Network.
+- **Current Goal** — Learning **Golang** and **Rust**.
+- **Fun Fact** — 福瑞控 (Furry).
+- 我只是一个 25 年下半年接触全栈的全占程序员
+
+**My Friends**
+
+**MaybeNone**
 
 ---
+
 ### 💻 Coding Activity (via Wakapi)
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -61,13 +89,3 @@ Unknown           2 hrs 52 mins         ▓░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
----
-
-## 🔗 Link
-
-<p align="left">
-  <a href="mailto:2221577113@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> 
-  <a href="https://wpa.qq.com/msgrd?v=3&uin=2221577113&site=qqq&menu=yes"><img src="https://img.shields.io/badge/QQ-12B7F5?style=flat-square&logo=tencent-qq&logoColor=white" /></a> 
-  <a href="https://space.bilibili.com/388937043"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" /></a> 
-  <a href="https://x.com/K2Cr04"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a> 
-</p>
