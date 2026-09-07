@@ -35,7 +35,7 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_featured: Fairy-Oracle-Sanctuary/Touhou-translate, K2cr2O1/Neobot
 
-      # 第二步：生成右侧统计图（贡献日历 + 编程习惯）
+      # 第二步：生成右侧统计图（贡献日历）
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -47,15 +47,6 @@ jobs:
           # 半年贡献日历（等距投影，替代已坏的 activity/achievements/leetcode）
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_isocalendar_animated: yes
-
-          # 编程习惯：每时辰/时段的活跃分布
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          config_display: large
 
       # 第三步：贪吃蛇动画（吃掉贡献格子）
       - uses: Platane/snk/svg-only@v3
