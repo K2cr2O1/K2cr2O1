@@ -81,7 +81,7 @@
 ```txt
 From: 13 December 2025 - To: 08 September 2026
 
-Python            53 hrs 3 mins         ███████████████░░░░░░░░░░   60.07 %
+Python            52 hrs 56 mins        ███████████████░░░░░░░░░░   59.93 %
 Html              10 hrs 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
 Markdown          4 hrs 58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 YAML              3 hrs 29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
